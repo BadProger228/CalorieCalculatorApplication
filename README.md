@@ -54,13 +54,13 @@ This separation allows the system to be scalable, maintainable, and easy to exte
 ## Architecture Overview
 ```text
 Android App (Kotlin)
-|
-| HTTP / JSON
-v
+  |
+  | HTTP / JSON
+  v
 ASP.NET Web API (C#)
-|
-| SQL
-v
+  |
+  | SQL
+  v
 SQL Server Database
 ```
 
