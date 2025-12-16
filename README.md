@@ -52,7 +52,7 @@ This separation allows the system to be scalable, maintainable, and easy to exte
 ---
 
 ## Architecture Overview
-
+```text
 Android App (Kotlin)
 |
 | HTTP / JSON
@@ -62,7 +62,7 @@ ASP.NET Web API (C#)
 | SQL
 v
 SQL Server Database
-
+```
 
 This architecture:
 - separates responsibilities between client and server;
@@ -75,6 +75,7 @@ This architecture:
 
 Recommended repository layout:
 
+```text
 CaloriesCalculator/
 │
 ├── android-app/ # Android project (Kotlin)
@@ -90,7 +91,7 @@ CaloriesCalculator/
 │ └── screenshots/ # Project screenshots
 │
 └── README.md
-
+```
 
 ---
 
