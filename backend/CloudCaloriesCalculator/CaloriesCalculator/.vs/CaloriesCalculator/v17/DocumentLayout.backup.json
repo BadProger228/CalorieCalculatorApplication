@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\rationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:rationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\fooditemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:fooditemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\dailyration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:dailyration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\createrationwithitemsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:createrationwithitemsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\createrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:createrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\caloriescalculator.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:caloriescalculator.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|f:\\projects for university\\1-st semestr\\cloudcaloriescalculator\\caloriescalculator\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CF317A-CD3D-453A-B466-4D12FC7F4AA2}|CaloriesCalculator.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 276,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RationsController.cs",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\RationsController.cs",
+              "RelativeDocumentMoniker": "RationsController.cs",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\RationsController.cs*",
+              "RelativeToolTip": "RationsController.cs*",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAQwCABAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T06:01:34.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateRationWithItemsRequest.cs",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\CreateRationWithItemsRequest.cs",
+              "RelativeDocumentMoniker": "CreateRationWithItemsRequest.cs",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\CreateRationWithItemsRequest.cs",
+              "RelativeToolTip": "CreateRationWithItemsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T06:19:48.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "PasswordHelper.cs",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\PasswordHelper.cs",
+              "RelativeToolTip": "PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T06:00:02.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "LoginRequest.cs",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\LoginRequest.cs",
+              "RelativeToolTip": "LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:12:52.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodItemDto.cs",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\FoodItemDto.cs",
+              "RelativeDocumentMoniker": "FoodItemDto.cs",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\FoodItemDto.cs",
+              "RelativeToolTip": "FoodItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T06:19:27.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateRationRequest.cs",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\CreateRationRequest.cs",
+              "RelativeDocumentMoniker": "CreateRationRequest.cs",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\CreateRationRequest.cs",
+              "RelativeToolTip": "CreateRationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T05:59:33.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthController.cs",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\AuthController.cs",
+              "RelativeToolTip": "AuthController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAIEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:13:54.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DailyRation.cs",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\DailyRation.cs",
+              "RelativeDocumentMoniker": "DailyRation.cs",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\DailyRation.cs",
+              "RelativeToolTip": "DailyRation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T05:58:14.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\UserProfile.cs",
+              "RelativeDocumentMoniker": "UserProfile.cs",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\UserProfile.cs",
+              "RelativeToolTip": "UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T05:57:49.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T09:08:05.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T08:46:21.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "RegisterRequest.cs",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\RegisterRequest.cs",
+              "RelativeToolTip": "RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T05:58:51.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CaloriesCalculator.http",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\CaloriesCalculator.http",
+              "RelativeDocumentMoniker": "CaloriesCalculator.http",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\CaloriesCalculator.http",
+              "RelativeToolTip": "CaloriesCalculator.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-13T08:11:03.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T05:57:22.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:09:48.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\Projects for university\\1-st semestr\\CloudCaloriesCalculator\\CaloriesCalculator\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:17:10.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
